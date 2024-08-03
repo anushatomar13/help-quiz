@@ -42,7 +42,7 @@ function App() {
   };
 
   const handleBookSession = () => {
-    // Implement booking functionality here
+    
     console.log("Book a session clicked");
   };
 
